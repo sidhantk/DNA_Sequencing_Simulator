@@ -1,1 +1,3 @@
 The purpose of this program is to determine whether a certain amount of coverage that the user desires is sufficient enough to properly sequence a genome of the given size. The program carries out in two parts. The first part asks the user what type of coverage they want to sequence their DNA, and it fragments the DNA using barcodes. The second part attempts to reassemble the DNA sequence using the barcodes, and determines whether the input coverage is sufficient or not.
+
+NOTE: The DNA fragmenter part was written by me, and the Barcode Binning part was written by my colleague. Both parts are needed to understand and execute the full program.
